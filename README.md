@@ -125,7 +125,7 @@ For businesses with stable, high-volume workloads, the cumulative cost of cloud 
 <br>
 
 ### Market-share trends breakdown- 
-
+![Market Share](https://www.google.com/imgres?q=market%20share%20cloud%20providers&imgurl=http%3A%2F%2Fcdn.statcdn.com%2FInfographic%2Fimages%2Fnormal%2F18819.jpeg&imgrefurl=https%3A%2F%2Fwww.statista.com%2Fchart%2F18819%2Fworldwide-market-share-of-leading-cloud-infrastructure-service-providers%2F&docid=w8gQLeHn9VXGVM&tbnid=WvlCIzZZiAWnhM&vet=12ahUKEwj43ezMlLOGAxUbV0EAHRDvBq0QM3oECBsQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwj43ezMlLOGAxUbV0EAHRDvBq0QM3oECBsQAA)
 
 <br>
 
@@ -134,7 +134,6 @@ For businesses with stable, high-volume workloads, the cumulative cost of cloud 
 **Microsoft Azure:** Excels with strong integration with Microsoft products, enterprise solutions, and hybrid cloud capabilities.
 **GCP (Google Cloud Platform) :** Stands out with its leadership in data analytics, AI, high-performance network infrastructure, and commitment to open source and multi-cloud strategies.
 
-Which cloud provider do you think might be the best? Why?
 
 <br>
 
@@ -190,11 +189,12 @@ Data Security and Governance:
 - Access Controls: Fine-grained access control mechanisms like AWS IAM, Azure RBAC, and Google Cloud IAM.
 - Compliance: Services to ensure data governance and compliance with regulatory standards.
 
+<br>
+
 ### Case Studies showing how businesses have migrated to the cloud or used the cloud to improve in some way:
 Case study 1:
 ```
 Minna Bank (Japan’s first digital bank):
-Minna Bank:
 
 Background: Minna Bank, Japan's first digital bank, recognized the evolving preferences of digital-native consumers who 
 favored online interactions over traditional banking methods.
@@ -203,13 +203,13 @@ Solution: Minna Bank opted to build a cloud-based banking platform, leveraging c
 digitally inclined customer base. By migrating its infrastructure to the cloud, Minna Bank gained the flexibility and scalability necessary to adapt to changing market demands rapidly.
 
 Results: By embracing cloud technology, Minna Bank achieved several key benefits:
-Rapid Deployment of New Services: With the agility afforded by the cloud, Minna Bank could swiftly deploy new banking 
-services and features to meet customer demands and stay ahead of the competition.
-Efficient Scalability: Cloud technology enabled Minna Bank to scale its infrastructure seamlessly in response to 
-fluctuations in user demand. This ensured a consistent and reliable banking experience for customers, even during peak usage periods.
-Enhanced Security and Compliance Management: Recognizing the importance of security and compliance in the financial 
-industry, Minna Bank leveraged cloud-based security solutions tailored to meet stringent regulatory requirements. 
-This ensured that customer data remained secure and compliant with industry standards, fostering trust and confidence among customers.
+    Rapid Deployment of New Services: With the agility afforded by the cloud, Minna Bank could swiftly deploy new banking 
+        services and features to meet customer demands and stay ahead of the competition.
+    Efficient Scalability: Cloud technology enabled Minna Bank to scale its infrastructure seamlessly in response to 
+        fluctuations in user demand. This ensured a consistent and reliable banking experience for customers, even during peak usage periods.
+    Enhanced Security and Compliance Management: Recognizing the importance of security and compliance in the financial 
+        industry, Minna Bank leveraged cloud-based security solutions tailored to meet stringent regulatory requirements. 
+        This ensured that customer data remained secure and compliant with industry standards, fostering trust and confidence among customers.
 
 
 ```
