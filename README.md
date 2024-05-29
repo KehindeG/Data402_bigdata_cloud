@@ -125,8 +125,7 @@ For businesses with stable, high-volume workloads, the cumulative cost of cloud 
 <br>
 
 ### Market-share trends breakdown- 
-![Market Share](https://www.google.com/imgres?q=market%20share%20cloud%20providers&imgurl=http%3A%2F%2Fcdn.statcdn.com%2FInfographic%2Fimages%2Fnormal%2F18819.jpeg&imgrefurl=https%3A%2F%2Fwww.statista.com%2Fchart%2F18819%2Fworldwide-market-share-of-leading-cloud-infrastructure-service-providers%2F&docid=w8gQLeHn9VXGVM&tbnid=WvlCIzZZiAWnhM&vet=12ahUKEwj43ezMlLOGAxUbV0EAHRDvBq0QM3oECBsQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwj43ezMlLOGAxUbV0EAHRDvBq0QM3oECBsQAA)
-
+![Market Share](https://drive.google.com/file/d/1fZ8s8pkBsTsGOf3sASNF93SAOoYTBJ7d/view?usp=drive_link)
 <br>
 
 ### The 3 largest Cloud providers, and what makes them popular: <br>
