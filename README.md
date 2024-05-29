@@ -71,12 +71,12 @@ The three main types of cloud services—Infrastructure as a Service (IaaS), Pla
 and Software as a Service (SaaS)—each serve different purposes and provide different levels of control and 
 responsibility. 
 
-|                     | ***IaaS***                                                                                                                         | ***PaaS***                                                                                                                           | ***SaaS***                                                                                                          |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Purpose             | Provides virtualized computing resources over the internet.                                                                        | Provides a platform allowing customers to develop, run, and manage applications without dealing with the underlying infrastructure.  | Delivers software applications over the internet, on a subscription basis.                                          | 
-| Control Level       | High                                                                                                                               | Medium                                                                                                                               | Low                                                                                                                 |
-| Components Provided | Virtual machines, storage, networks, and sometimes databases.                                                                      | Development tools, database management, middleware, and operating systems.                                                           | Entire software applications along with underlying infrastructure and platforms.                                    | 
-| Common Use Cases    | Hosting websites and web applications.<br> Development and testing environments.<br> Data storage, backup, and recovery solutions. | Application development and deployment.<br> Business intelligence and analytics.<br> Integrating various web services and databases. | Customer relationship management (CRM) software.<br> Office productivity suites.<br> Email and collaboration tools. | 
+|                           | ***IaaS***                                                                                                                         | ***PaaS***                                                                                                                           | ***SaaS***                                                                                                          |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| ***Purpose***             | Provides virtualized computing resources over the internet.                                                                        | Provides a platform allowing customers to develop, run, and manage applications without dealing with the underlying infrastructure.  | Delivers software applications over the internet, on a subscription basis.                                          | 
+| ***Control Level***       | High                                                                                                                               | Medium                                                                                                                               | Low                                                                                                                 |
+| ***Components Provided*** | Virtual machines, storage, networks, and sometimes databases.                                                                      | Development tools, database management, middleware, and operating systems.                                                           | Entire software applications along with underlying infrastructure and platforms.                                    | 
+| ***Common Use Cases***    | Hosting websites and web applications.<br> Development and testing environments.<br> Data storage, backup, and recovery solutions. | Application development and deployment.<br> Business intelligence and analytics.<br> Integrating various web services and databases. | Customer relationship management (CRM) software.<br> Office productivity suites.<br> Email and collaboration tools. | 
 
 <br>
 
@@ -124,8 +124,9 @@ For businesses with stable, high-volume workloads, the cumulative cost of cloud 
 
 <br>
 
-### Market-share trends breakdown- 
-![Market Share](https://drive.google.com/file/d/1fZ8s8pkBsTsGOf3sASNF93SAOoYTBJ7d/view?usp=drive_link)
+### Market-share trends breakdown: 
+![Market Share](https://cdn.statcdn.com/Infographic/images/normal/18819.jpeg)
+
 <br>
 
 ### The 3 largest Cloud providers, and what makes them popular: <br>
