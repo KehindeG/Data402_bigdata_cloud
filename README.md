@@ -130,9 +130,9 @@ For businesses with stable, high-volume workloads, the cumulative cost of cloud 
 <br>
 
 ### The 3 largest Cloud providers, and what makes them popular: <br>
-**AWS (Amazon Web Services):** Leads due to its early market entry, extensive service offerings, and robust global infrastructure.
-**Microsoft Azure:** Excels with strong integration with Microsoft products, enterprise solutions, and hybrid cloud capabilities.
-**GCP (Google Cloud Platform) :** Stands out with its leadership in data analytics, AI, high-performance network infrastructure, and commitment to open source and multi-cloud strategies.
+**AWS (Amazon Web Services):** Leads due to its early market entry, extensive service offerings, and robust global infrastructure.<br>
+**Microsoft Azure:** Excels with strong integration with Microsoft products, enterprise solutions, and hybrid cloud capabilities.<br>
+**GCP (Google Cloud Platform) :** Stands out with its leadership in data analytics, AI, high-performance network infrastructure, and commitment to open source and multi-cloud strategies.<br>
 
 
 <br>
